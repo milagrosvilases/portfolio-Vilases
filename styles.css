@@ -15,8 +15,13 @@ body {
 }
 #perfil:hover {
   transform: scale(1.05);
-  transition: transform 0.3s ease;}
-  
+  transition: transform 0.3s ease;
+}
+
+h1 {
+  color: white;
+}
+
 .bienvenida {
   display: flex;
   align-items: center;       
@@ -269,4 +274,5 @@ h2 {
     padding: 10px;
     background-color: #ddd;
     margin-top: 20px;
+
 }
